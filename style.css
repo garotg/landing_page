@@ -1,0 +1,75 @@
+.provision {
+    margin-top: 100px;
+}
+.battery {
+    margin-right: 100px;
+}
+.enter {
+    margin-top: 200px;
+}
+.head {
+    padding-top:20px;
+    padding-right:20px;
+    background:white;
+}
+.gear {
+    margin-right:100px;
+}
+.service {
+    margin-right:150px;
+}
+.types {
+    margin-top:40px;
+}
+.people {
+    margin-right:100px;
+}
+.customer {
+    margin-top:40px;
+    margin-right:100px;
+}
+.lowrider {
+    margin-top:100px;
+}
+.logo {
+    width:200px;
+    height: 150px;
+    border: white;
+}
+iframe {
+    margin-top:50px;
+    width:600px;
+    height:350px;
+}
+.molten {
+    border:solid;
+}
+.mikasa {
+    border:solid;
+}
+.wilson {
+    border:solid;
+}
+.cb {
+    background-color:rgba(255, 255, 255, 0.514);
+    margin:20px;
+    padding:20px;
+}
+.cont {
+    margin-top: 100px;
+    text-align: center;
+    align-items: center;
+    padding:40px;
+}
+.end {
+    background-color: rgba(255, 255, 255, 0.26);
+    margin-top:100px;
+}
+
+.check {
+    margin-top:30px;
+    margin-bottom:40px;
+}
+body {
+    background: linear-gradient(180deg, rgba(255,255,255,1) 15%, rgba(9,9,121,0.43040966386554624) 35%, rgba(255,255,255,1) 48%, rgba(255,0,0,0.37718837535014005) 75%, rgba(255,255,255,0.6292892156862745) 97%);
+}
