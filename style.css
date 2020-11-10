@@ -1,9 +1,6 @@
 .provision {
     margin-top: 100px;
 }
-.battery {
-    margin-right: 100px;
-}
 .enter {
     margin-top: 200px;
 }
@@ -11,6 +8,9 @@
     padding-top:20px;
     padding-right:20px;
     background:white;
+}
+.competition {
+    margin-right:100px;
 }
 .gear {
     margin-right:100px;
@@ -26,9 +26,8 @@
 }
 .customer {
     margin-top:40px;
-    margin-right:100px;
 }
-.lowrider {
+.ballvideo {
     margin-top:100px;
 }
 .logo {
